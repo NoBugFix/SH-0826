@@ -5,5 +5,5 @@ hello git!hello atguigu
 hello git!hello atguigu
 hello git!hello atguigu
 hello git!hello atguigu	master
-hello git!hello atguigu
+hello git!hello atguigu master2
 hello git!hello atguigu hot-fix
